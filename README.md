@@ -1,3 +1,8 @@
+## Inferential Statistics Blogpost
+
+* This section contains files, used in my blog on inferential statistics on medium
+
+
 ## Housing Values in Suburbs of Boston
 
 * The medv variable is the target variable.
