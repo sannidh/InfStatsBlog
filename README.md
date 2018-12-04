@@ -1,7 +1,6 @@
 ##Housing Values in Suburbs of Boston
 *The medv variable is the target variable.
 *Data description - The Boston data frame has 506 rows and 14 columns.
-
 This data frame contains the following columns:
 *crim
 per capita crime rate by town.
@@ -31,4 +30,4 @@ pupil-teacher ratio by town.
 lower status of the population (percent).
 *medv
 median value of owner-occupied homes in \$1000s.
-[Link to Boston Housing Dataset] (https://www.kaggle.com/c/boston-housing)
+[Link to Boston Housing Dataset](https://www.kaggle.com/c/boston-housing)
