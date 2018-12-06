@@ -1,7 +1,7 @@
 ## Inferential Statistics Blogpost
 
 * This section contains files, used in my blog on inferential statistics on medium
-**[Normal Distribution Blogpost]https://medium.com/@soniknitr/an-introduction-to-normal-distribution-using-python-549d2285ea09**
+**[Normal Distribution Blogpost](https://medium.com/@soniknitr/an-introduction-to-normal-distribution-using-python-549d2285ea09)**
 
 ## Housing Values in Suburbs of Boston
 
